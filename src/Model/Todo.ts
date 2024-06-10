@@ -3,6 +3,5 @@ export default interface Todo{
   user_id: string;
   username: string;
   email: string;
-  todo: string;
-  status: string;
+  todos: string;
 }
